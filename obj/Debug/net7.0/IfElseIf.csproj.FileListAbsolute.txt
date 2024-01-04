@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\bin\Debug\net7.0\IfElseIf.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\bin\Debug\net7.0\IfElseIf.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\bin\Debug\net7.0\IfElseIf.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\bin\Debug\net7.0\IfElseIf.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\bin\Debug\net7.0\IfElseIf.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\refint\IfElseIf.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\IfElseIf.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\IfElseIf\obj\Debug\net7.0\ref\IfElseIf.dll
